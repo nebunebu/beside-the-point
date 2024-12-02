@@ -1,8 +1,8 @@
 {
-  "name": "beside_the_point",
+  "name": "beside-the-point",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nebunebu.github.io/beside_the_point",
+  "homepage": "https://nebunebu.github.io/beside-the-point",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
