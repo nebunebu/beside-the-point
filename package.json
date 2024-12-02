@@ -2,6 +2,7 @@
   "name": "beside_the_point",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nebunebu.github.io/beside_the_point",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -11,7 +12,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://nebunebu.github.io/beside_the_point",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
